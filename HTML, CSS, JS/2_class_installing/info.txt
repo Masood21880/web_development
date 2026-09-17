@@ -1,1 +1,7 @@
-isdfio
+today in this lecture we learn about heading tag in html
+like h1 to h6
+and then we learn paragraph tag 
+comment in html comment .
+<strong> tag is used for bold .
+<em>tag 
+br tag is used for line brak .
