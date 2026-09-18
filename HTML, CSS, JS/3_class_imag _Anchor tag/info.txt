@@ -1,0 +1,27 @@
+Today I learned about Anchor, Image, List, and Table tags in HTML.
+
+Anchor tag:
+- The <a> tag is used to create links.
+- The href attribute is used to specify the link address.
+- The target="_blank" attribute opens the link in a new tab.
+
+Image tag:
+- The <img> tag is used to display images on a webpage.
+- The src attribute specifies the image path or URL.
+- The alt attribute provides alternative text for the image.
+- The height attribute is used to set the height of an image.
+
+Lists:
+- HTML provides two main types of lists: ordered lists and unordered lists.
+- The <ul> tag is used to create an unordered list.
+- The <ol> tag is used to create an ordered list.
+- The <li> tag is used to define a list item.
+- The type attribute can be used to change the numbering or bullet style.
+
+Tables:
+- The <table> tag is used to create a table.
+- The <thead> tag defines the table header section.
+- The <tbody> tag defines the main body of the table.
+- The <tr> tag is used to create a table row.
+- The <th> tag defines a table header cell.
+- The <td> tag defines a table data cell.
