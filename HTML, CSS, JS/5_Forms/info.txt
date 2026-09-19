@@ -1,0 +1,23 @@
+HTML Forms - Practice
+
+In this practice, I learned how to create and structure HTML forms.
+
+I practiced:
+- Creating forms using the <form> tag
+- Using labels with the <label> tag
+- Text input using <input type="text">
+- Phone input using <input type="tel">
+- Email input using <input type="email">
+- Radio buttons for selecting one option
+- Checkbox for selecting an option
+- Textarea for multiline text
+- Setting textarea rows and columns
+- Limiting text using the maxlength attribute
+- Creating dropdown menus using <select> and <option>
+- Date input using <input type="date">
+- Submit button
+- Reset button
+- Using attributes such as name, id, for, value, and maxlength
+
+Practice Project:
+Created a basic HTML registration/information form.
