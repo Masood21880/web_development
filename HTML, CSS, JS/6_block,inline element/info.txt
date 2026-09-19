@@ -1,0 +1,48 @@
+HTML Block and Inline Elements
+
+Today I learned about block-level and inline elements in HTML.
+
+Block Elements:
+- Block elements normally start on a new line.
+- They usually take up the available width.
+- Examples: <div>, <form>, <h1> to <h6>, <p>, <ul>, <ol>, <li>, <table>, and <section>.
+
+Inline Elements:
+- Inline elements normally stay on the same line.
+- They usually take only the space required by their content.
+- Examples: <span>, <a>, <em>, <strong>, <label>, and <img>.
+
+Important Concepts:
+- <div> is a block-level element.
+- <span> is an inline element.
+- <li> should normally be used inside <ul> or <ol>.
+- The CSS display property can change how an element behaves.
+- Common display values include block, inline, and inline-block.
+
+////////////////////////////////////////////////////////////
+
+HTML ID and Class
+
+Today I learned the difference between id and class attributes in HTML.
+
+ID:
+- An id is used to identify one specific element.
+- An id should normally be unique on a page.
+- The same id should not be given to multiple elements.
+- Example: <div id="about">About Me</div>
+
+Class:
+- A class is used to group multiple similar elements.
+- The same class can be used on multiple elements.
+- Example:
+  <p class="text">Name</p>
+  <p class="text">Degree</p>
+
+Main Difference:
+- ID = unique / specific element
+- Class = group / multiple elements
+
+Important:
+- ID is written with # in CSS.
+- Class is written with . in CSS.
+- Both id and class can be used with HTML elements.
