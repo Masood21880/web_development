@@ -1,0 +1,29 @@
+ /* This is element selector  */
+ p {
+     color: black;
+     background-color: greenyellow;
+ }
+
+ /* This is id selector */
+ #idSelector {
+     color: brown;
+     border: 2px solid;
+     background-color: aqua;
+
+ }
+
+ .classSelector {
+     color: blue;
+     background-color: beige;
+ }
+
+ .Description {
+     color: cyan;
+     background-color: black;
+ }
+
+ h1,
+ h2,
+ h3 {
+     background-color: pink;
+ }
