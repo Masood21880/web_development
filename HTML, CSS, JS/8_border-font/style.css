@@ -1,0 +1,59 @@
+p {
+    font-family: 'Times New Roman';
+    font-size: medium;
+    line-height: 1.5em;
+    font-weight: bold;
+    font-style: oblique;
+
+
+}
+
+/* now we discuss here color  */
+/* and also discues border */
+h4 {
+    color: red;
+    ;
+}
+
+.name {
+    color: white;
+    background-color: black;
+    font-style: normal;
+}
+
+.degree {
+    color: rgb(255, 0, 0);
+    background-color: aqua;
+    font-size: medium;
+    font-style: normal;
+
+}
+
+.skill {
+    color: #ff0000;
+    background-color: beige;
+
+}
+
+#borderFirst {
+    background-color: aqua;
+    height: 100px;
+    width: 300px;
+    font-style: normal;
+    border-width: 2px;
+    border-color: chartreuse;
+    border-style: solid;
+    border-radius: 20px;
+
+
+
+}
+
+#borderSecond{
+    height: 350px;
+    width: 500px;
+    border: 3px solid red;
+   background-image: url(my-pic.jpeg);
+   background-repeat: no-repeat;
+   background-size: 100px;
+}

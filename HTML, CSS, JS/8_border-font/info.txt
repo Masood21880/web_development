@@ -1,0 +1,30 @@
+CSS Font, Color, Border and Background Image
+
+Today I learned about CSS fonts, colors, borders, and background images.
+
+Font Properties:
+- font-family: Defines the font type.
+- font-size: Defines the size of the text.
+- line-height: Controls the space between lines.
+- font-weight: Controls the thickness of text.
+- font-style: Defines the style of text.
+
+Color:
+- color: Changes the text color.
+- background-color: Changes the background color.
+- Colors can be written using color names, RGB, HEX, and RGBA.
+
+Border:
+- border-width: Defines the thickness of the border.
+- border-style: Defines the border style.
+- border-color: Defines the border color.
+- border-radius: Makes the corners rounded.
+- Border can also be written using shorthand:
+  border: 2px solid black;
+
+Background Image:
+- background-image: Adds an image as a background.
+- background-repeat: Controls whether the image repeats.
+- background-size: Controls the size of the background image.
+- background-size: cover; makes the image cover the container.
+- background-size: contain; fits the image inside the container.
