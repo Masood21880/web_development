@@ -1,0 +1,24 @@
+CSS Selectors
+
+Today I learned about CSS selectors and how they are used to target HTML elements.
+
+Selectors I learned:
+- Element Selector: Selects HTML elements by their tag name.
+- ID Selector: Selects one specific element using an id.
+- Class Selector: Selects multiple elements using a class.
+- Group Selector: Selects multiple different elements with the same CSS rule.
+- Universal Selector: Selects all HTML elements using *.
+
+Examples:
+- Element: p { }
+- ID: #idSelector { }
+- Class: .description { }
+- Group: h1, h2, h3 { }
+- Universal: * { }
+
+Important Concepts:
+- ID uses # in CSS.
+- Class uses . in CSS.
+- A class can be reused on multiple elements.
+- Group selectors allow multiple selectors to share the same CSS rules.
+- The universal selector * targets all elements.
