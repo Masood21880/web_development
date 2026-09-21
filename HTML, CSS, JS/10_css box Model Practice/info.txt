@@ -1,0 +1,10 @@
+CSS Box Model Practice
+
+Practiced CSS Box Model concepts:
+- Margin
+- Padding
+- Border
+- Width
+- Border Radius
+- Box-sizing
+- Centering with margin: auto

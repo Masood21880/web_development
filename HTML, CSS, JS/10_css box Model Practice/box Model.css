@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    background-color: #a0b8cb;
+    /* border: 2px dashed black; */
+    /* border: 2px dotted black; */
+    border: 3px double black;
+    outline: 2px solid blue;
+    /* outline-offset: 5px; */
+    /* border: 2px solid black; */
+    width: 350px;
+    max-width: 450px;
+    padding: 40px;
+    margin: 20px auto;
+    border-radius: 15px;
+}
