@@ -1,0 +1,19 @@
+/* This is Univesal selector */
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #4d7f88;
+}
+
+.container {
+    background-color: #c7ebed;
+    border: 2px solid red;
+    padding: 30px 40px;
+    margin: 15px 30px;
+    width: 450px;
+    border-radius: 15px;
+ 
+} 

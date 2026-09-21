@@ -1,0 +1,41 @@
+CSS Box Model
+
+Today I learned about the CSS Box Model and how to control spacing, size, and appearance of elements.
+
+Universal Selector:
+- * selects all HTML elements.
+- box-sizing: border-box makes the width and height include padding and border.
+- margin: 0 removes default outer spacing.
+- padding: 0 removes default inner spacing.
+
+Background Color:
+- background-color is used to set the background color of an element.
+- HEX color codes can be used to define colors.
+
+Width:
+- width defines the width of an element.
+
+Padding:
+- Padding creates space inside an element, between the content and border.
+- padding: 30px 40px means:
+  - Top and Bottom = 30px
+  - Left and Right = 40px
+
+Margin:
+- Margin creates space outside an element.
+- margin: 15px 30px means:
+  - Top and Bottom = 15px
+  - Left and Right = 30px
+
+Border:
+- border creates a boundary around an element.
+- Example: border: 2px solid red;
+
+Border Radius:
+- border-radius makes the corners of an element rounded.
+- Example: border-radius: 15px;
+
+Important Difference:
+- Padding = space inside the element.
+- Margin = space outside the element.
+- Border = boundary between padding and margin.
