@@ -1,0 +1,10 @@
+CSS Float and Clear Practice
+
+Today I practiced CSS float and clear properties.
+
+- float: left
+- float: right
+- clear: both
+- Width with percentages
+- Margin and padding
+- Box sizing
