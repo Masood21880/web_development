@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+
+img{
+    width: 75px;
+    margin: auto;
+    display: block;
+}
+h2{
+ margin: 0px;
+ text-align: center;
+}
+.container{
+   width: 1200px;
+   /* margin: auto; */
+}
+header{
+    /* margin: auto; */
+    border: 2px solid red;
+    /* width: 45%; */
+    width: 1200px;
+}
+.box{
+    border: 4px solid red;
+    background-color: aquamarine;
+    margin: 4px 0px;
+    padding: 23px;
+    width: 33%;
+    box-sizing: border-box;
+    display: inline-block;
+}

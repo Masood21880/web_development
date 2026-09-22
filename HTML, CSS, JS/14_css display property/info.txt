@@ -1,0 +1,8 @@
+CSS Display Property
+
+Today I practiced the CSS display property.
+
+- display: inline-block
+- Used inline-block to place boxes on the same line.
+- Width can be applied to inline-block elements.
+- Padding and margin can be applied to inline-block elements.
