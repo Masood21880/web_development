@@ -1,0 +1,60 @@
+.navbar {
+    background-color: #9cb2ab;
+    border-radius: 10px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.navbar li {
+    list-style: none;
+    float: left;
+    margin: 13px 20px;
+
+}
+
+.navbar ul {
+    overflow: auto;
+}
+
+.navbar li a {
+    text-decoration: none;
+    padding: 3px 4px;
+    color: black;
+}
+
+.navbar li a:hover {
+    color: white;
+}
+
+.search {
+    float: right;
+    color: azure;
+    padding: 12px 75px;
+
+}
+
+.navbar input {
+    border: 1px solid red;
+    border-radius: 5px;
+
+}
+
+.search button:hover {
+    background-color: pink;
+
+
+}
+
+.search button a {
+    text-decoration: none;
+}
+
+.search button {
+    border: 1px solid red;
+    border-radius: 5px;
+}
+
+.navbar input:hover {
+    background-color: pink;
+    color: black;
+}

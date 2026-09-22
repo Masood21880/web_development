@@ -1,0 +1,12 @@
+CSS Navigation Bar Practice
+
+Today I practiced creating a navigation bar using CSS.
+
+Topics Practiced:
+- Float
+- List-style
+- Overflow
+- Padding and margin
+- Link styling
+- Search box
+- Input styling
