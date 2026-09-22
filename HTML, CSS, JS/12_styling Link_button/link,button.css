@@ -1,0 +1,46 @@
+.container {
+    background-color: #8ca99f;
+    border: 2px solid #6a2545;
+    padding: 12px;
+    margin: 20px auto;
+    width: 600px;
+    border-radius: 10px;
+
+}
+
+.btn {
+    background-color: #816a6a;
+    padding: 6px;
+    border: none;
+    margin-right: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 13px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+
+}
+
+.btn:hover {
+
+    color: rgb(253, 255, 255);
+    background-color: rgb(164, 79, 79);
+    border: 2px solid black;
+    transition: 0.4s;
+
+}
+
+.btn:focus {
+    outline: 2px solid rgb(239, 10, 10);
+}
+
+a:visited {
+    background-color: chartreuse;
+}
+
+a:active {
+    background-color: bisque;
+}

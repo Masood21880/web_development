@@ -1,0 +1,10 @@
+CSS Pseudo-Classes Practice
+
+Today I practiced CSS pseudo-classes for links and buttons.
+
+- :hover
+- :visited
+- :active
+- cursor: pointer
+- text-decoration: none
+- Button and link styling
