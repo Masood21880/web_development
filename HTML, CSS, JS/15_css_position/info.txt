@@ -1,0 +1,18 @@
+CSS Position Property
+
+Today I practiced the CSS position property.
+
+Position Types:
+- Static
+- Relative
+- Absolute
+- Fixed
+- Sticky
+
+Important Concepts:
+- Relative moves an element from its original position.
+- Absolute positions an element relative to a positioned parent.
+- Fixed keeps an element fixed on the screen.
+- Sticky makes an element stick when scrolling.
+- top, right, bottom, and left are used to position elements.
+- z-index controls the stacking order of positioned elements.
