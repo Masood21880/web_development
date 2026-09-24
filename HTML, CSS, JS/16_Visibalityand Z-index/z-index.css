@@ -1,0 +1,65 @@
+.box {
+    border: 2px solid black;
+    width: 110px;
+    height: 90px;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 60px;
+    margin-top: 20px;
+}
+
+.container-1 {
+    position: absolute;
+    left: 0px;
+
+}
+
+/* also we discuss z-index z-index work on position relative ,abosulate ,fixed,sticky . */
+#box1 {
+    background-color: green;
+    position: relative;
+    z-index: 70;
+    top: 30px;
+}
+
+#box2 {
+    background-color: yellow;
+    z-index: 20;
+    position: relative;
+    top: 15px;
+
+}
+
+#box3 {
+
+    /* will hide the elemnt and space */
+    display: none;
+    background-color: blue;
+}
+
+#box4 {
+    background-color: red;
+}
+
+#box5 {
+    background-color: green;
+
+}
+
+#box6 {
+    background-color: yellow;
+    /* will hide the element but show the empty space */
+    visibility: hidden;
+}
+
+#box7 {
+    background-color: blue;
+}
+
+#box8 {
+    background-color: red;
+}

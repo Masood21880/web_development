@@ -1,0 +1,15 @@
+CSS Flexbox
+🎯 Key Learnings
+Flex Container: Applying display: flex on a parent element activates Flexbox and automatically aligns all direct child elements side-by-side in a single row.
+
+Core Alignment Properties:
+
+justify-content: Controls horizontal alignment along the main axis (Left, Center, Right, Space-between).
+
+align-items: Controls vertical alignment along the cross axis (Top, Center, Bottom).
+
+The order Property:
+
+Reorders items visually without changing the underlying HTML structure.
+
+All items have a default value of order: 0. Lower/negative numbers (-1) move elements forward, while higher numbers (1, 2) push them back.

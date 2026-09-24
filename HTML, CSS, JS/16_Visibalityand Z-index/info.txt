@@ -1,0 +1,14 @@
+Today i practice 
+Visibility & Z-Index
+display: none;
+Hides the element completely. It takes up no space on the page, and other elements move up to fill the gap.
+
+visibility: hidden;
+Hides the element visually, but preserves its space. The layout remains unchanged, leaving an empty box.
+
+z-index
+Controls the stacking order of overlapping elements along the Z-axis (front-to-back).
+
+Note: Requires a position property (such as relative, absolute, or fixed) to take effect.
+
+Higher values appear in front of lower values (e.g., z-index: 10 sits above z-index: 1).
