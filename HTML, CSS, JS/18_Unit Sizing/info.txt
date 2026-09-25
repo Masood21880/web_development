@@ -1,0 +1,15 @@
+CSS Unit Sizing
+
+Today I practiced CSS sizing units.
+
+Units Practiced:
+- vh (Viewport Height)
+- vw (Viewport Width)
+- em (Relative to parent font-size)
+- rem (Relative to root/html font-size)
+
+Important Concepts:
+- vh is used for viewport height.
+- vw is used for viewport width.
+- em depends on the parent element's font-size.
+- rem depends on the root (html) font-size.
