@@ -1,0 +1,23 @@
+CSS Media Queries
+
+Today I practiced CSS Media Queries and learned how to apply different styles based on screen width.
+
+Topics Practiced:
+- @media rule
+- max-width
+- min-width
+- min-width with max-width
+- display: none
+- display: block
+- Changing text color based on screen size
+- Changing background color based on screen size
+- Responsive design basics
+
+Media Query Examples:
+- max-width: 300px
+- min-width: 300px and max-width: 500px
+- min-width: 500px and max-width: 700px
+- min-width: 700px and max-width: 1000px
+
+Important Concept:
+Media queries are used to make websites responsive and apply different CSS styles for different screen sizes.

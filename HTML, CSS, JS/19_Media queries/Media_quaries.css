@@ -1,0 +1,49 @@
+.box{
+    background-color: bisque;
+    font-size: 50px;
+    text-align: center;
+    display: none;
+    
+
+}
+@media (max-width:299px){
+    #box-1{
+        display: block;
+        color: white;
+        background-color: red;
+    }
+   
+}
+@media (min-width:300px) and (max-width:499px){
+    #box-2{
+        display: block;
+        color: white;
+        background-color: navy;
+           /* font-size: 30px; */
+    }
+   
+}
+@media (min-width:500px) and (max-width:699px){
+    #box-3{
+        display: block;
+        color:white;
+       background-color: black;
+    }
+   
+}
+@media (min-width:700px) and (max-width:1000px){
+    #box-4{
+        display: block;
+        color: white;
+        background-color: brown;
+    }
+   
+}
+@media (min-width: 1000px) {
+    #box-5 {
+        display: block;
+        color: white;
+        background-color: green;
+
+    }
+}
