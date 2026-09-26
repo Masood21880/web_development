@@ -1,0 +1,26 @@
+CSS Pseudo-Elements and Flexbox Practice
+
+Today I practiced CSS pseudo-elements, background images, positioning, opacity, and Flexbox.
+
+Pseudo-Elements:
+- ::before is used to add content before an element.
+- ::after is used to add content after an element.
+- content: "" is used to create an empty pseudo-element.
+
+Background Image:
+- background-image is used to add a background image.
+- background-repeat controls image repetition.
+- background-position controls image position.
+- background-size: cover makes the image cover the area.
+
+Positioning:
+- position: absolute is used to position an element precisely.
+- top and left are used to set the position.
+- z-index controls the stacking order.
+- opacity controls transparency.
+
+Flexbox:
+- display: flex enables Flexbox.
+- flex-direction controls the direction of flex items.
+- align-items controls alignment on the cross axis.
+- justify-content controls alignment on the main axis.
