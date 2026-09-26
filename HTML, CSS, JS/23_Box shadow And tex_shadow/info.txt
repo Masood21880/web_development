@@ -1,0 +1,21 @@
+CSS Box Shadow and Text Shadow
+
+Today I explored CSS box-shadow and text-shadow.
+
+Box Shadow:
+- box-shadow is used to add a shadow around an element.
+- Horizontal offset controls the shadow's left/right position.
+- Vertical offset controls the shadow's up/down position.
+- Blur controls how soft the shadow is.
+- Spread controls the size of the shadow.
+- inset creates an inner shadow.
+- Multiple shadows can be added using commas.
+
+Text Shadow:
+- text-shadow is used to add a shadow to text.
+- It supports horizontal offset, vertical offset, blur, and color.
+
+Important Concepts:
+- box-shadow = shadow around a box/element.
+- text-shadow = shadow behind text.
+- Multiple box shadows can be used together.

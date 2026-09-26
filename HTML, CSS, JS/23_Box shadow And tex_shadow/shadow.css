@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+}
+.card{
+    border: 2px solid red;
+    padding: 20px 12px;
+    margin:20px 10px;
+    background-color: beige;
+    /* This one is use for simple shadow  */
+    box-shadow: 5px 6px rgb(213, 38, 193);
+    /* and this one use used for blar */
+    box-shadow: 5px 6px 15px rgb(9, 169, 237);
+    /* and this one is use for spread*/
+    box-shadow: 5px 6px 15px 15px rgb(190, 99, 114);
+    /* this one is used for inset mean for inner side  */
+    box-shadow: inset 3px 33px brown;
+    /* this one is used for multiple color */
+        box-shadow: 1px 6px navy, 4px 9px #ddf000;
+}
+/* this is text shadow  */
+.card h2{
+    text-shadow: 2px 3px navy;
+    /* this is text shadow but blar */
+     text-shadow: 6px 7px 10px rgb(197, 50, 238);
+}
