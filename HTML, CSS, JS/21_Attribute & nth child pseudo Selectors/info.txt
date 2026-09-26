@@ -1,0 +1,22 @@
+CSS Attribute and nth-child Selectors
+
+Today I practiced CSS attribute selectors and the :nth-child() pseudo-class selector.
+
+Attribute Selector:
+- Attribute selectors select elements based on their attributes.
+- input[type="age"] selects an input with a specific type attribute.
+- a[target] selects an anchor element that has a target attribute.
+
+nth-child Selector:
+- :nth-child() selects elements based on their position among siblings.
+- li:nth-child(3) selects the 3rd li element.
+- li:nth-child(3n+0) selects every 3rd li element.
+- li:nth-child(even) selects even-numbered elements.
+- li:nth-child(odd) selects odd-numbered elements.
+
+Important Concepts:
+- Attribute selector uses [].
+- nth-child uses :nth-child().
+- even selects 2nd, 4th, 6th, etc.
+- odd selects 1st, 3rd, 5th, etc.
+- nth-child works according to the element's position among its siblings.

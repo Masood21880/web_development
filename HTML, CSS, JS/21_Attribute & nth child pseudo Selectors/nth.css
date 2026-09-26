@@ -1,0 +1,39 @@
+.container{
+    display: block;
+    padding: 12px;
+    width: 200px;
+    margin:auto;
+;
+}
+/* i select this with the help of attribute selector */
+input[type="numbere"]{
+    background-color: rgb(203, 203, 231);
+    padding: 2px;
+    border: 2px solid red;
+   
+}
+a[target]{
+    color: navy;
+}
+
+a[target="_self"]{
+    color: black;
+}
+/* li:nth-child(3){
+    color: brown;
+    
+} */
+/* li:nth-child(3n+0){
+    color: yellow;
+    
+} */
+/* li:nth-child(even){
+   background-color: navy;
+   color: white;
+    
+} */
+li:nth-child(odd){
+   background-color: rgb(14, 135, 86);
+   color: white;
+    
+}
