@@ -1,0 +1,28 @@
+h1 {
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+/* This one select all paragraph inside the div */
+/* div p{
+    color: white;
+    background-color: navy;
+    font-weight: bold;
+} */
+/* if p is right inside the div this css will be applied */
+/* div > p{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+ } */
+/* if p is right after the div or p is next sibling of div this css will be applied   */
+div+p {
+    background-color: navajowhite;
+    color: navy;
+    font-weight: bold;
+}

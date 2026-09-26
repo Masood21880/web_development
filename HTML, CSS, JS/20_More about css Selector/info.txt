@@ -1,0 +1,19 @@
+CSS Combinator Selectors
+
+Today I practiced CSS combinator selectors.
+
+Selectors Practiced:
+- > Child Selector
+- + Adjacent Sibling Selector
+
+Child Selector (>):
+- Selects only the direct child of an element.
+- Example: .container > p
+
+Adjacent Sibling Selector (+):
+- Selects the element that comes immediately after another element.
+- Example: h2 + p
+
+Important Concept:
+- > = Direct child
+- + = Immediate next sibling
