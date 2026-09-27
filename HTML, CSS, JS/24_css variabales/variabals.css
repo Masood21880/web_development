@@ -1,0 +1,25 @@
+:root{
+    --primary-color:aqua;
+    --normal-color:blue;
+    --maxw:300px
+}
+.box{
+    /* --box-color:rgb(16, 43, 194); */
+    background-color: var(--primary-color);
+    width: 200px;
+    height: 200px;
+    border: 2px solid rgb(241, 3, 3);
+    margin: 5px 6px;
+    box-shadow: 3px 3px var(--normal-color);
+    color: black;
+
+}
+.container{
+    max-width: var(--maxw);
+    margin: auto;
+    background-color:var(--normal-color);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* background-color: var(--box-color); */
+}

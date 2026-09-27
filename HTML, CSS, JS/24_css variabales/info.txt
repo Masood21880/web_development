@@ -1,0 +1,21 @@
+CSS Variables
+
+Today I practiced CSS variables and learned how to reuse values in CSS.
+
+CSS Variables:
+- CSS variables are created using --variable-name.
+- :root is commonly used to define global CSS variables.
+- var() is used to use a CSS variable.
+
+Example:
+:root {
+    --primary-color: aqua;
+    --normal-color: blue;
+    --maxw: 300px;
+}
+
+Important Concepts:
+- :root = central place for global variables.
+- --name = creates a variable.
+- var(--name) = uses the variable.
+- Variables make CSS easier to maintain and update.
