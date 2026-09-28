@@ -1,0 +1,20 @@
+CSS Animation
+
+Today I practiced CSS animations and learned how to create movement and changes in elements.
+
+Animation Properties:
+- animation-name: Defines the animation name.
+- animation-duration: Defines how long the animation takes.
+- animation-iteration-count: Defines how many times the animation runs.
+- animation-fill-mode: Controls the element's style after the animation.
+- animation-timing-function: Controls the speed of the animation.
+
+@keyframes:
+- @keyframes defines the different stages of an animation.
+- 0%, 30%, 60%, and 100% can be used to control animation stages.
+- from and to can be used for simple animations.
+
+Important Concepts:
+- position: relative allows top and left to move the element.
+- CSS animations can change position, size, opacity, colors, and other properties.
+- Animation can be used for loading effects, buttons, cards, notifications, and other UI elements.

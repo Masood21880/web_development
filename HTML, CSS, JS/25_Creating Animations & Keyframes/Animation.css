@@ -1,0 +1,47 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.container{
+    background-color: aqua;
+    color: white;
+    
+}
+.box{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    animation-name: Masood2;
+    animation-duration: 7s;
+    /* animation-iteration-count: 1; */
+    /* animation-fill-mode: forwards; */
+    /* animation-timing-function: ease-out; */
+}
+@keyframes Masood2{
+    0%{
+        top: 0px;
+        left: 0px;
+    }
+    30%{
+        top: 100px;
+        left: 0px;
+    }
+    60%{
+        left: 100px;
+        top: 100px;
+    }
+    100%{
+        top: 0px;
+        left: 100px;
+    }
+}
+@keyframes Masood1{
+    from{
+        width: 250px;
+    }
+    to{
+        width: 100px;
+    }
+}
