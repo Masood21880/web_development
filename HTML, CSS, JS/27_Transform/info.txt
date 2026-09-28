@@ -1,0 +1,14 @@
+CSS Transform
+
+Today I practiced CSS transform and learned how to transform elements.
+
+Transform Properties:
+- rotate(): Rotates an element.
+- skew(): Skews or tilts an element.
+- scale(): Increases or decreases the size of an element.
+- translateY(): Moves an element vertically.
+
+Important Concepts:
+- transform is commonly used with :hover.
+- transition can make transform changes smooth.
+- Different transform functions can be used to change an element's position, size, or shape.
