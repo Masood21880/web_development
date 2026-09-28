@@ -1,0 +1,41 @@
+body{
+    background-color: black;
+    color:white;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+h1:hover{
+    color:rgb(186, 186, 237);
+    cursor: pointer;
+    transition: color 0.5s ease;
+    
+   
+}
+
+#box{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    color: black;
+    background-color: red;
+    
+    align-items: center;
+    justify-content: center;
+    transition-property: background-color;
+    transition-duration: 1s;
+    /* transition-timing-function: ease-out; */
+    transition-delay:2s;
+    transition: all 1s ease-in-out .3s;
+    margin: 50px auto;
+
+}
+#box:hover{
+    background-color: white;
+    width: 200px;
+    height: 200px;
+    font-size: 30px;
+    border-radius: 50px;
+    color: blue;
+
+}

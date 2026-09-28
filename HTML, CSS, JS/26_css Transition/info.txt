@@ -1,0 +1,16 @@
+CSS Transition
+
+Today I practiced CSS transitions and learned how to make style changes smooth.
+
+Transition Properties:
+- transition-property: Defines which CSS property will change.
+- transition-duration: Defines how long the transition takes.
+- transition-timing-function: Controls the speed of the transition.
+- transition-delay: Delays the start of the transition.
+- transition: Shorthand for transition properties.
+
+Important Concepts:
+- all applies the transition to all changing properties.
+- A specific property can be selected, such as width or background-color.
+- Multiple properties can be separated using commas.
+- Transitions are commonly used with :hover.
