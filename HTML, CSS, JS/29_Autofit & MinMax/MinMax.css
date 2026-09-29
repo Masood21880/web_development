@@ -1,0 +1,13 @@
+.container{
+    display: grid;
+    gap: 1fr;
+    /* grid-template-columns: 130px 130px 130px; */
+    /* grid-template-columns: 1fr 1fr 1fr; */
+    grid-template-columns: repeat(auto-fit,minmax(350px, 1fr));
+}
+.box{
+    margin: 3px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    padding: 20px;
+}

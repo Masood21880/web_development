@@ -7,9 +7,9 @@
     /* grid-gap: 2rem; */
     /* grid-template-rows: 100px 100px; */
     grid-template-areas:
-        /* "header header" */
+        "header header"
         "sidebar main"
-        /* "footer footer"; */
+        "footer footer";
 
 }
 
@@ -22,6 +22,6 @@
     margin: 3px;
     text-align: center;
     padding: 10px 5px;
-   
+
 
 }

@@ -1,0 +1,11 @@
+CSS Grid - minmax() and fr
+
+Today I practiced CSS Grid and learned about minmax() and fr units.
+
+- minmax() sets a minimum and maximum size for grid columns or rows.
+- fr means fraction of the available space.
+- 1fr means one fraction of the available space.
+- 1fr 1fr creates two equal columns.
+- 1fr 2fr divides available space into 1 and 2 parts.
+- minmax(200px, 1fr) means minimum 200px and maximum 1fr.
+- repeat() can be used with minmax() for responsive grid layouts.
