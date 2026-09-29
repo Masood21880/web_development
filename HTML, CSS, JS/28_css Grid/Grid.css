@@ -1,0 +1,27 @@
+.container {
+    display: grid;
+    /* grid-template-columns: 200px 100px 100px; */
+    /* grid-template-columns: 1fr 4fr 1fr; */
+    /* grid-template-columns: 100px auto 100px; */
+    /* grid-template-columns: repeat(6, auto); */
+    /* grid-gap: 2rem; */
+    /* grid-template-rows: 100px 100px; */
+    grid-template-areas:
+        /* "header header" */
+        "sidebar main"
+        /* "footer footer"; */
+
+}
+
+
+.item {
+    /* width: 300px; */
+    background-color: aqua;
+    border: 2px solid black;
+    /* height: 60px; */
+    margin: 3px;
+    text-align: center;
+    padding: 10px 5px;
+   
+
+}

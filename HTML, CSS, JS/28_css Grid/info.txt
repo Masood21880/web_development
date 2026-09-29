@@ -1,0 +1,19 @@
+CSS Grid
+
+Today I practiced CSS Grid for creating layouts using rows and columns.
+
+Grid Properties:
+- display: grid; enables CSS Grid.
+- grid-template-columns: Defines the columns.
+- grid-template-rows: Defines the rows.
+- repeat(): Creates repeated columns or rows.
+- fr: Divides available space into fractions.
+- auto: Adjusts size according to available space.
+- gap: Adds space between grid items.
+- grid-column: Controls an item's column position.
+- grid-row: Controls an item's row position.
+
+Important Concept:
+- Flexbox is mainly for one-dimensional layouts.
+- Grid is mainly for two-dimensional layouts using rows and columns.
+- Grid is commonly used for cards, galleries, dashboards, and page layouts.
