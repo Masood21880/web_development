@@ -1,0 +1,16 @@
+CSS Grid Layout
+
+Today I practiced creating a webpage layout using CSS Grid.
+
+Topics Practiced:
+- display: grid
+- grid-gap
+- grid-template-areas
+- grid-area
+- Creating navbar, section, aside, and footer layouts
+
+Important Concepts:
+- CSS Grid is used to create webpage layouts.
+- grid-template-areas defines the layout structure.
+- grid-area assigns elements to specific areas.
+- Different areas can be arranged to create a complete webpage layout.
