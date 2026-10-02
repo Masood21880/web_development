@@ -8,4 +8,4 @@ console.log(temp);
 
 // know we find string length
 let len = name.length;
-console.log(`The length of name= ${len}`);
+console.log(`The length of name= ${len}`);ss

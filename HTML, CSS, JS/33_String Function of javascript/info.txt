@@ -1,0 +1,12 @@
+JavaScript String Functions
+
+indexOf() – Finds the first occurrence.
+lastIndexOf() – Finds the last occurrence.
+substring() – Extracts part of a string.
+slice() – Extracts part of a string and supports negative indexes.
+substr() – Extracts a specified number of characters.
+toUpperCase() – Converts text to uppercase.
+toLowerCase() – Converts text to lowercase.
+replace() – Replaces text with another value.
+trim() – Removes whitespace from the start and end.
+charAt() – Returns the character at a specific index.
