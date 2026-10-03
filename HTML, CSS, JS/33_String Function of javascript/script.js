@@ -43,5 +43,5 @@ let trim1 = "     this is     trim      string          ";
 console.log(trim1.trim());
 
 // also other function charAt
-let char =  "this is chartAt function";
+let char =  "this is charAt function";
 console.log(char.charAt(3));

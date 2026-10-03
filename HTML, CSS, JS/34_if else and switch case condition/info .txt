@@ -1,0 +1,9 @@
+JavaScript Conditions
+
+if – Checks a condition.
+else if – Checks another condition.
+else – Runs when all conditions are false.
+switch – Compares a value with multiple cases.
+case – Defines a possible value in switch.
+break – Stops the switch execution.
+default – Runs when no case matches.
