@@ -1,0 +1,57 @@
+JavaScript Arrays and Objects
+
+ARRAY
+An array is used to store multiple values in a single variable.
+
+Example:
+let skills = ["HTML", "CSS", "JavaScript"];
+
+Array values are accessed using index numbers.
+Array index starts from 0.
+
+Common Array Methods:
+push() – Adds a value to the end.
+pop() – Removes the last value.
+shift() – Removes the first value.
+unshift() – Adds a value to the beginning.
+splice() – Adds or removes values at a specific position.
+slice() – Creates a portion/copy of an array without changing the original array.
+
+Array Example:
+skills[0] = "HTML";
+
+
+OBJECT
+An object is used to store related information using key-value pairs.
+
+Example:
+let employee = {
+    name: "Masood Khan",
+    age: 22,
+    occupation: "Software Engineer"
+};
+
+Object values are accessed using property names.
+
+Example:
+console.log(employee.name);
+
+Adding a new property:
+employee.email = "masood@example.com";
+
+Updating a property:
+employee.age = 23;
+
+
+ARRAY vs OBJECT
+
+Array – Used for a list of values.
+Object – Used for details/information about something.
+
+Array uses index:
+skills[0]
+
+Object uses property:
+employee.name
+
+Objects can also contain arrays.
