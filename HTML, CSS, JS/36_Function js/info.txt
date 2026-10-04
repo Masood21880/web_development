@@ -1,0 +1,118 @@
+JavaScript Functions
+
+A function is a reusable block of code that performs a specific task.
+
+FUNCTION DECLARATION
+A function can be created using the function keyword.
+
+Example:
+function greet() {
+    console.log("Hello Masood");
+}
+
+
+FUNCTION CALL
+A function is executed by calling its name.
+
+Example:
+greet();
+
+
+PARAMETERS
+Parameters are variables written inside the function parentheses.
+They receive values when the function is called.
+
+Example:
+function greet(name) {
+    console.log("Hello " + name);
+}
+
+
+ARGUMENTS
+Arguments are the actual values passed to a function when calling it.
+
+Example:
+greet("Masood");
+
+Here:
+name = parameter
+"Masood" = argument
+
+
+RETURN
+The return statement sends a value back from the function.
+
+Example:
+function add(a, b) {
+    return a + b;
+}
+
+let result = add(10, 20);
+console.log(result);
+
+
+MULTIPLE PARAMETERS
+A function can have multiple parameters.
+
+Example:
+function addNumbers(a, b, c) {
+    return a + b + c;
+}
+
+let result = addNumbers(10, 20, 30);
+console.log(result);
+
+
+DEFAULT PARAMETER
+A parameter can have a default value.
+The default value is used when no argument is provided.
+
+Example:
+function welcome(name = "User") {
+    console.log("Welcome " + name);
+}
+
+welcome("Masood");
+welcome();
+
+
+ARROW FUNCTION
+An arrow function is a modern and shorter way to write functions.
+
+Example:
+
+const add = (a, b) => {
+    return a + b;
+};
+
+console.log(add(10, 20));
+
+
+IMPORTANT DIFFERENCE
+
+console.log()
+Displays a value on the console.
+
+return
+Sends a value back from the function so it can be stored or used later.
+
+
+FUNCTION PARAMETERS vs ARGUMENTS
+
+Parameter:
+The variable inside the function definition.
+
+Argument:
+The actual value passed when calling the function.
+
+
+Example:
+
+function multiply(a, b) {
+    return a * b;
+}
+
+multiply(20, 5);
+
+a and b = parameters
+20 and 5 = arguments
