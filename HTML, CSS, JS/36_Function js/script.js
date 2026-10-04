@@ -52,4 +52,3 @@ function isEven(num){
 let result3 = isEven(19);
 console.log(result3)
 
-function 

@@ -1,0 +1,94 @@
+```text
+JavaScript Interaction
+
+JavaScript interaction allows a webpage to communicate with the user.
+It can display messages, take input, and ask for confirmation.
+
+1. alert()
+
+alert() is used to display a message to the user.
+
+Example:
+alert("This is an alert");
+
+It only shows a message and does not take user input.
+
+
+2. prompt()
+
+prompt() is used to take input from the user.
+
+Example:
+let name = prompt("What is your name?", "Guest");
+
+console.log(name);
+
+The value entered by the user is returned by prompt().
+
+
+3. confirm()
+
+confirm() is used to ask the user for confirmation.
+It displays OK and Cancel buttons.
+
+Example:
+let deletePost = confirm("Do you really want to delete this post?");
+
+If the user clicks OK:
+true
+
+If the user clicks Cancel:
+false
+
+Example:
+if (deletePost) {
+    console.log("Post deleted");
+} else {
+    console.log("Post not deleted");
+}
+
+
+4. prompt() with if/else
+
+We can use user input with conditions.
+
+Example:
+let age = prompt("Enter your age");
+
+if (age >= 18) {
+    console.log("You are eligible");
+} else {
+    console.log("You are not eligible");
+}
+
+
+5. Number()
+
+prompt() normally returns user input as a string.
+
+Number() converts the input into a number.
+
+Example:
+let num1 = Number(prompt("Enter first number:"));
+let num2 = Number(prompt("Enter second number:"));
+
+let result = num1 + num2;
+
+console.log(result);
+
+
+Important:
+
+alert()   → Displays a message.
+prompt()  → Takes input from the user.
+confirm() → Takes confirmation and returns true or false.
+Number()  → Converts a value into a number.
+
+
+Real-World Uses:
+
+alert()   → Showing warnings or messages.
+prompt()  → Taking simple user input.
+confirm() → Confirming actions such as delete.
+Number()  → Converting user input for calculations.
+```
