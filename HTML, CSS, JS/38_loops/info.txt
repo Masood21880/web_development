@@ -1,0 +1,48 @@
+```text
+JavaScript do...while Loop
+
+do...while loop is used to repeat code while a condition is true.
+
+The main difference is:
+do...while loop runs the code at least once before checking the condition.
+
+Syntax:
+
+do {
+    // code
+} while (condition);
+
+
+Example:
+
+let num = 1;
+
+do {
+    console.log(num);
+    num++;
+} while (num <= 5);
+
+
+Output:
+
+1
+2
+3
+4
+5
+
+
+Important:
+
+while loop:
+Condition is checked first, then code runs.
+
+do...while loop:
+Code runs first, then condition is checked.
+
+
+Simple Rule:
+
+while → Check first, then run.
+do...while → Run first, then check.
+```
