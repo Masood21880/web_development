@@ -124,9 +124,9 @@
 // % 3 === 0  → Divisible by 3
 // % 4 === 0  → Divisible by 4
 // ========================================
-let num = 1;
+// let num = 1;
 
-do {
-    console.log(num);
-    num++;
-} while (num <= 5);
+// do {
+//     console.log(num);
+//     num++;
+// } while (num <= 5);
