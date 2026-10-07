@@ -83,3 +83,10 @@ let box = document.querySelector("#box");
 
 // Change HTML content
 box.innerHTML = "<h2>Hello Masood</h2>";
+
+let btn = document.querySelector("#btn");
+let heading = document.querySelector("#heading");
+
+btn.addEventListener("click", function () {
+    heading.innerText = "Welcome Masood Khan!";
+});
